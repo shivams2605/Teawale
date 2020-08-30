@@ -71,6 +71,8 @@ body:after {
     position: relative;
     top: -2px;
     height: calc(100vh - 53px);
+    background-image: url("./../assets/landing_image.jpg");
+    background-size: cover;  
 }
 .banner img {
     min-width: 100%;
@@ -92,7 +94,7 @@ body:after {
     font-size: 60px;
 }
 .banner-content h2 span {
-    color: #9dc53d;
+    color: #59a60c;
 }
 .banner-content h3 {
     font-size: 50px;
@@ -106,6 +108,7 @@ body:after {
     color: #ffcd0e;
     margin: 15px 0;
     font-size: 40px;
+    text-shadow: 1px 1px 1px #8a7753, -1px -1px 1px #8a7753, 1px -1px 1px #8a7753, -1px 1px 1px #8a7753;
 }
 .product-section .item {
     padding: 2%;
