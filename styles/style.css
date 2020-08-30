@@ -139,7 +139,7 @@ body:after {
     background-image: url(./../assets/article-1.jpg);
 }
 .product-section .item-text {
-    background: rgba(0, 0, 0, .3);
+    background: rgba(0, 0, 0, .5);
     height: 100%;
     width: 100%;
     left: 0;
@@ -157,7 +157,7 @@ body:after {
     transform: translatey(-100%);
     width: 100%;
     left: 0;
-    background: rgba(0, 0, 0, .3);
+    background: rgba(0, 0, 0, .5);
     padding: 10px;
 }
 .product-section .item:hover .item-text {
